@@ -1,4 +1,4 @@
-package ru.tn.courses.eklyuchkin.v2.task1;
+package ru.tn.courses.aklyuchkin.v2.task1;
 import java.util.ArrayList;
 public class Subtask1 {
     private static int[] getArray(int ... nums) {

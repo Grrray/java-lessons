@@ -1,4 +1,4 @@
-package ru.tn.courses.eklyuchkin.v2.task1;
+package ru.tn.courses.aklyuchkin.v2.task1;
 
 public class Subtask3 {
     public static void main(String[] args) {
